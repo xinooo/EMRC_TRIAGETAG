@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:1:1-101:12
+INJECTED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:1:1-101:12
+INJECTED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:1:1-101:12
+INJECTED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:1:1-101:12
+INJECTED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:1:1-101:12
+	package
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:2:5-33
+	android:versionName
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml
+		INJECTED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:3:5-29
+		INJECTED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml
+		INJECTED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:8:9-38
+	android:minSdkVersion
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:7:9-35
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:10:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.ACTION_MANAGE_OVERLAY_PERMISSION
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:12:5-91
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:12:22-88
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:13:22-75
+uses-permission#android.permission.NFC
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:14:5-62
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:14:22-59
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:17:22-73
+uses-feature#android.hardware.camera
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:19:5-21:35
+	android:required
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:21:9-32
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:20:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:22:5-24:35
+	android:required
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:24:9-32
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:23:9-57
+uses-feature#android.hardware.wifi
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:26:9-45
+uses-feature#android.hardware.nfc
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:29:9-44
+application
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:32:5-99:19
+	android:label
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:35:9-41
+	android:icon
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:34:9-47
+	android:allowBackup
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:33:9-35
+	android:theme
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:36:9-40
+activity#com.emrc_triagetag.MainActivity
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:37:9-56:20
+	android:screenOrientation
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:41:13-55
+	android:label
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:39:13-45
+	android:launchMode
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:40:13-44
+	android:windowSoftInputMode
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:42:13-52
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:38:13-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:46:27-74
+intent-filter#android.intent.category.DEFAULT+android.nfc.action.NDEF_DISCOVERED
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:49:13-55:29
+action#android.nfc.action.NDEF_DISCOVERED
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:50:25-74
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:52:27-73
+data
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:54:17-55
+	android:mimeType
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:54:23-52
+activity#com.emrc_triagetag.EMRCActivity
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:57:9-59:58
+	android:screenOrientation
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:59:13-55
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:58:13-40
+activity#com.emrc_triagetag.InformationActivity
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:60:9-63:55
+	android:screenOrientation
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:62:13-55
+	android:windowSoftInputMode
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:63:13-52
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:61:13-47
+activity#com.emrc_triagetag.InformationViewActivity
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:64:9-66:58
+	android:screenOrientation
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:66:13-55
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:65:13-51
+activity#com.emrc_triagetag.InjuredActivity
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:67:9-69:58
+	android:screenOrientation
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:69:13-55
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:68:13-43
+activity#com.emrc_triagetag.VitalActivity
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:70:9-73:55
+	android:screenOrientation
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:72:13-55
+	android:windowSoftInputMode
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:73:13-52
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:71:13-41
+activity#com.emrc_triagetag.LevelActivity
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:74:9-76:58
+	android:screenOrientation
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:76:13-55
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:75:13-41
+activity#com.emrc_triagetag.PhotoActivity
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:77:9-79:58
+	android:screenOrientation
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:79:13-55
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:78:13-41
+activity#com.emrc_triagetag.PhotoViewActivity
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:80:9-82:58
+	android:screenOrientation
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:82:13-55
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:81:13-45
+activity#com.emrc_triagetag.EmrgnActivity
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:83:9-86:55
+	android:screenOrientation
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:85:13-55
+	android:windowSoftInputMode
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:86:13-52
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:84:13-41
+activity#com.zxing.activity.CaptureActivity
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:87:9-92:63
+	android:screenOrientation
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:90:13-55
+	android:windowSoftInputMode
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:92:13-60
+	android:configChanges
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:89:13-63
+	android:theme
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:91:13-71
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:88:13-62
+activity#com.emrc_triagetag.CameraTwoActivity
+ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:93:9-98:63
+	android:screenOrientation
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:96:13-55
+	android:windowSoftInputMode
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:98:13-60
+	android:configChanges
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:95:13-63
+	android:theme
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:97:13-71
+	android:name
+		ADDED from C:\Users\AN\AndroidStudioProjects\EMRC_TRIAGETAG\AndroidManifest.xml:94:13-45

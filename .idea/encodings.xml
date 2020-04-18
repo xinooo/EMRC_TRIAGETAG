@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/com/emrc_triagetag/EmrgnActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/emrc_triagetag/InformationViewActivity.java" charset="x-MS950-HKSCS" />
+    <file url="file://$PROJECT_DIR$/src/com/emrc_triagetag/LevelActivity.java" charset="x-MS950-HKSCS" />
+    <file url="file://$PROJECT_DIR$/src/com/emrc_triagetag/MyListAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/emrc_triagetag/MySpinnerAdapter.java" charset="x-MS950-HKSCS" />
+    <file url="file://$PROJECT_DIR$/src/com/emrc_triagetag/MySpinnerAdapter_MAIN.java" charset="x-MS950-HKSCS" />
+    <file url="file://$PROJECT_DIR$/src/com/emrc_triagetag/VitalActivity.java" charset="x-MS950-HKSCS" />
+  </component>
+</project>

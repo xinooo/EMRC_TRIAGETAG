@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_main_3_view.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\main_3_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_gray_baseline.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\gray_baseline.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_3_leve.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_3_leve.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_textview2.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_textview2.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_spinner_20.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_spinner_20.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scc_triagetag.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\scc_triagetag.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_segmented_left.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\segmented_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_database.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_database.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_main_0_view.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\main_0_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_page2.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_page2.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_item_background_gone.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\item_background_gone.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_arrow_bottom.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_arrow_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_scc_transport.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\scc_transport.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_6_mci.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_6_mci.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_segmented_text_color.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\segmented_text_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_item_background_dark.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\item_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_ambulance.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_ambulance.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_gray_baseline2.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\gray_baseline2.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_check_2.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_check_2.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_1_inju_back_view.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_1_inju_back_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_segmented_right.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\segmented_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_textview4.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_textview4.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_item_background_sky.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\item_background_sky.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_4_viewpager.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_4_viewpager.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_segmented_left_checked.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\segmented_left_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_tfs.jpg.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_tfs.jpg"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_arrow.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_clear_2.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_clear_2.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_camera.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_rotate.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_rotate.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_segmented_right_normal.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\segmented_right_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_4_phot_photo_view.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_4_phot_photo_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_a_left.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_a_left.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_imgcar.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_imgcar.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_emrc_view.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\emrc_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_imgmaster.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_imgmaster.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_arrow_1.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_arrow_1.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_1_inju_front_view.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_1_inju_front_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_4_phot.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_4_phot.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_textview6.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_textview6.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_segmented_left_normal.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\segmented_left_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_2_vita_1.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_2_vita_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_5_emrgn_view.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_5_emrgn_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_image.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_image.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_segmented_right_checked.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\segmented_right_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_body_front_16_9_2.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\body_front_16_9_2.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_spinner2.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_spinner2.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bg_emrc.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\bg_emrc.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_iccl.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\iccl.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_body_back_16_9_2.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\body_back_16_9_2.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_tag.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_tag.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_location.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_location.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_2_vita_2.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_2_vita_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_item_background_g.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\item_background_g.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_identity.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_identity.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_main_1_view.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\main_1_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_rotate_1.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_rotate_1.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_gray_baseline_gone.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\gray_baseline_gone.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_2_vita.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_2_vita.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_main_2_view.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\main_2_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_0_info_img_view.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_0_info_img_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_textview5.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_textview5.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_0_info.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_0_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_paper_plane.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_paper_plane.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_textview.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_a_right.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_a_right.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_2_vita_3.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_2_vita_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_item_drawable_imguser.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\item_drawable_imguser.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_spinner_30.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_spinner_30.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_1_inju.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_1_inju.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_page1.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_page1.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_folder.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_folder.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_checkbox.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_spinner_15.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_spinner_15.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_start.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_start.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_capture.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\capture.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_spinner_25.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_spinner_25.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_spinner.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_arrow_top.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_arrow_top.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_fs_check_1.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\fs_check_1.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_item_drawable_imgcar.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\item_drawable_imgcar.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_item_background_square.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\item_background_square.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_fs_mic.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-xxhdpi\\fs_mic.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_2_vita_0.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_2_vita_0.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_bg_emrc_zh.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\bg_emrc_zh.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_gray_baseline3.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\gray_baseline3.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_checked.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_checked.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_iccl.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_iccl.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable_item_background.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable\\item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_style_textview3.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\style_textview3.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_imguser.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_imguser.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_item_5_emrgn.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\item_5_emrgn.xml"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_scan.png.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\drawable-hdpi\\ic_scan.png"
+    },
+    {
+        "merged": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\build\\intermediates\\res\\merged\\release\\layout_main.xml.flat",
+        "source": "C:\\Users\\An\\AndroidStudioProjects\\EMRC_TRIAGETAG\\res\\layout\\main.xml"
+    }
+]

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\An\AndroidStudioProjects\EMRC_TRIAGETAG\libs\android-support-v13.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0a0cf96dabecd7b65a3638a229e7bdb42e6b0a77">
+        <dex dex="C:\Users\An\AndroidStudioProjects\EMRC_TRIAGETAG\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\An\AndroidStudioProjects\EMRC_TRIAGETAG\libs\lib_checked.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="aca27ccf76db4f4063ff2acc3741fe016200898f">
+        <dex dex="C:\Users\An\AndroidStudioProjects\EMRC_TRIAGETAG\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\An\AndroidStudioProjects\EMRC_TRIAGETAG\libs\core.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="27.0.3"
+        sha1="42fd0eaeee98eb9e1c8cfbcef742a34b54522c4c">
+        <dex dex="C:\Users\An\AndroidStudioProjects\EMRC_TRIAGETAG\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+
+</items>
